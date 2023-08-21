@@ -1,4 +1,4 @@
-# Reinforcement_Learning_CartePole_OpenAi_Gym: Deep Q-Network (DQN) Agent for CartPole-v1
+Deep Q-Network (DQN) Agent for CartPole-v1 OpenAi_Gym
 
 This repository contains code to train and test a Deep Q-Network (DQN) agent on the "CartPole-v1" environment using the Keras-RL library.
 
